@@ -1,6 +1,8 @@
 """
 PrimeShield: A Prime Framework-based Quantum-Resistant Lightweight Cryptography Implementation
 
+PrimeShield is not reviewed and is provided for research purposes only until verified.
+
 This reference implementation provides a pure Python implementation of quantum-resistant
 cryptography based on the mathematical foundations of the Prime Framework. It includes 
 core primitives for intrinsic number embedding, prime factorization, and coherence-based 
