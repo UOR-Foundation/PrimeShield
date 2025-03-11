@@ -1,8 +1,6 @@
+# PrimeShield has not been peer reviewed yet. Please consider reviewing PrimeShield!
+
 # PrimeShield
-
-<div align="center">
-
-![PrimeShield Logo](https://github.com/UOR-Foundation/PrimeShield/raw/main/docs/assets/primeshield-logo.png)
 
 **Quantum-Resistant Lightweight Cryptography based on the Prime Framework**
 
